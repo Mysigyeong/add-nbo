@@ -2,7 +2,6 @@
 #include <cstdio>
 #include <netinet/in.h>
 
-using namespace std;
 
 int main(int argc, char* argv[])
 {
