@@ -28,7 +28,7 @@ int main(int argc, char* argv[])
 
     uint32_t val1;
     uint32_t val2;
-    int result;
+    uint32_t result;
 
     try {
         int num1 = fread(&val1, sizeof(uint32_t), 1, fp1);
